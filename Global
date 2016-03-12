@@ -2,3 +2,6 @@
 colour_scheme=Tomorrow Night
 encoding=UTF-8
 prefer_dark_theme=1
+hide_menubar=1
+title=
+warn_close=1
