@@ -2,7 +2,7 @@
 [roxterm colour scheme]
 foreground=#c5c8c6
 background=#1d1f21
-0=#cc6666
+0=#1d1d1f1f2121
 1=#de935f
 2=#f0c674
 3=#b5b589890000
@@ -26,5 +26,6 @@ background=#1d1f21
 21=#888830308888
 22=#303088888888
 23=#d8d8d8d8d8d8
-cursor=#cc6666
+cursor=#5c5c35356666
 palette_size=16
+bold=#f5f579790000
